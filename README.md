@@ -10,7 +10,6 @@
 + Project 105: <A HREF="README.md#P105">2N3055 Ic-Vc, Ib I-V Characteristics Curve Tester Version 2</A>
 + Project 106: <A HREF="README.md#P106">2N3055 Ic-Vc, Ib LED Test</A>
 + Project 107: <A HREF="README.md#P107">Elektor TV Webinars</A>
-+ Project 108: <A HREF="README.md#P108">Arduino IDE MicroPython</A>
 + Project 109: <A HREF="README.md#P109">Embedded World Exhibition & Conference</A>
 + Project 110: <A HREF="README.md#P110">Elektor Digital Green Magazine</A>
 + Project 111: <A HREF="README.md#P111">Search PDFs for Text</A>
