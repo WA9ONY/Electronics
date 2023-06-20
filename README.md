@@ -17,7 +17,6 @@
 + Project 112: <A HREF="README.md#P112">Newsletters</A>
 + Project 113: <A HREF="README.md#P113">Internet Archive</A>
 + Project 114: <A HREF="README.md#P114">Digi-Key Electronics</A>
-+ Project 128: <A HREF="README.md#P128">Arduino Day</A>
 + Project 133: <A HREF="README.md#P133">E-Ink Display</A>
 + Project 134: <A HREF="README.md#P134">SPE: Single Pair Ethernet</A>
 + Project 135: <A HREF="README.md#P135">Element14</A>
@@ -33,7 +32,6 @@
 + Project 169: <A HREF="README.md#P169">MicroSD Cards for SBC</A>
 + Project 174: <A HREF="README.md#P174">YouTube Channel W2AEW</A>
 + Project 179: <A HREF="README.md#P179">CAN Bus</A>
-+ Project 182: <A HREF="README.md#P182">Arduino UNO R4</A>
 + Project 186: <A HREF="README.md#P186">Raspberry Pi Pico GPIO Current</A>
 + Project 187: <A HREF="README.md#P187">Raspberry Pi Pico GPIO Square Wave</A>
 + Project 188: <A HREF="README.md#P188">Raspberry Pi Pico GPIO PIO</A>
