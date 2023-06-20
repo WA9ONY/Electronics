@@ -1,7 +1,7 @@
-# Electronics Project Notes
-
 <P align="center"><A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A><BR>
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
+
+# Electronics Project Notes
 
 + Project 101: <A HREF="README101.md#P101">YouTube Channel Gems</A>
 + Project 102: <A HREF="README101.md#P102">List of YouTube Playlists</A>
@@ -17,24 +17,7 @@
 + Project 112: <A HREF="README101.md#P112">Newsletters</A>
 + Project 113: <A HREF="README101.md#P113">Internet Archive</A>
 + Project 114: <A HREF="README101.md#P114">Digi-Key Electronics</A>
-+ Project 115: <A HREF="README101.md#P115">tinyML Foundation</A>
-+ Project 116: <A HREF="README101.md#P116">AI: Artificial Intelligence</A>
-+ Project 117: <A HREF="README101.md#P117">ML (Machine Learning) & tinyML</A>
-+ Project 118: <A HREF="README101.md#P118">Khan Academy</A>
-+ Project 119: <A HREF="README101.md#P119">OCW: MIT Open Course Ware</A>
-+ Project 120: <A HREF="README101.md#P120">TensorFlow</A>
-+ Project 121: <A HREF="README101.md#P121">Microcontrollers Machine Learning</A>
-+ Project 122: <A HREF="README101.md#P122">SBC (Single Board Computer) Machine Learning</A>
-+ Project 123: <A HREF="README101.md#P123">How to build an ML-powered doorbell notifier</A>
-+ Project 124: <A HREF="README101.md#P124">SparkFun Machine Learning</A>
-+ Project 125: <A HREF="README101.md#P125">Google AIY Projects</A>
-+ Project 126: <A HREF="README101.md#P126">The Great Courses</A>
-+ Project 127: <A HREF="README101.md#P127">Morse Code</A>
 + Project 128: <A HREF="README101.md#P128">Arduino Day</A>
-+ Project 129: <A HREF="README101.md#P129">PyTorch</A>
-+ Project 130: <A HREF="README101.md#P130">Hackaday</A>
-+ Project 131: <A HREF="README101.md#P131">Handwriting Recognition</A>
-+ Project 132: <A HREF="README101.md#P132">ML (Machine Learning) KNN: K Nearest Neighbors in Python</A>
 + Project 133: <A HREF="README101.md#P133">E-Ink Display</A>
 + Project 134: <A HREF="README101.md#P134">SPE: Single Pair Ethernet</A>
 + Project 135: <A HREF="README101.md#P135">Element14</A>
@@ -46,60 +29,15 @@
 + Project 141: <A HREF="README101.md#P141">RP2040 DVI</A>
 + Project 142: <A HREF="README101.md#P142">RP2040 PIO</A>
 + Project 143: <A HREF="README101.md#P143">Wire</A>
-+ Project 144: <A HREF="README101.md#P144">scikit-learn</A>
 + Project 145: <A HREF="README101.md#P145">Pico Vsys Power Test</A> 
-+ Project 146: <A HREF="README101.md#P146">AI Chat Bot OpenAI ChatGPT Conversation</A>
-+ Project 147: <A HREF="README101.md#P147">Researching a Project Process</A>
-+ Project 148: <A HREF="README101.md#P148">ChatGPT Index Audio Files Conversation</A>
-+ Project 149: <A HREF="README101.md#P149">ChatGPT Raspberry Pi Pico Conversation</A>
-+ Project 150: <A HREF="README101.md#P150">ChatGPT ANN Conversation</A>
-+ Project 151: <A HREF="README101.md#P151">Google Colab ChatGPT ANN Conversation</A>
-+ Project 152: <A HREF="README101.md#P152">Brilliant Online Courses</A>
-+ Project 153: <A HREF="README101.md#P153">AI Hardware</A>
-+ Project 154: <A HREF="README101.md#P154">Adafruit Microsoft Machine Learning Kit for Lobe</A>
-+ Project 155: <A HREF="README101.md#P155">Nvidia Jetson</A>
-+ Project 156: <A HREF="README101.md#P156">ML GPUs & TPUs</A>
-+ Project 157: <A HREF="README101.md#P157">ML ResNet-50 Convolutional Neural Network</A>
-+ Project 158: <A HREF="README101.md#P158">ML Math</A>
-+ Project 159: <A HREF="README101.md#P159">Google Colab Python IDE</A> 
-+ Project 160: <A HREF="README101.md#P160">Morse Code</A>
-+ Project 161: <A HREF="README101.md#P161">Python Notbooks</A>
-+ Project 162: <A HREF="README101.md#P162">DS: Data Science</A>
-+ Project 163: <A HREF="README101.md#P163">Anaconda</A>
-+ Project 164: <A HREF="README101.md#P164">Bosch BME688 Environmental sensing with AI</A>
-+ Project 165: <A HREF="README101.md#P165">Free Book: The Elements of Statistical Learning</A>
-+ Project 166: <A HREF="README101.md#P166">tinyML Summit</A>
-+ Project 167: <A HREF="README101.md#P167">ML ANN Digit Recognition</A>
-+ Project 168: <A HREF="README101.md#P168">Free Online Book: Neural Networks and Deep Learning</A>
 + Project 169: <A HREF="README101.md#P169">MicroSD Cards for SBC</A>
-+ Project 170: <A HREF="README101.md#P170">Google DeepMind</A>
-+ Project 171: <A HREF="README101.md#P171">Google ML Training Resources</A>
-+ Project 172: <A HREF="README101.md#P172">Kaggle ML</A>
-+ Project 173: <A HREF="README101.md#P173">YouTube Channel Python Programmer</A> Data, Python & ML
 + Project 174: <A HREF="README101.md#P174">YouTube Channel W2AEW</A>
-+ Project 175: <A HREF="README101.md#P175">YouTube Channel 3Blue1Brown Animated Math</A>
-+ Project 176: <A HREF="README101.md#P176">Keggle Free Data Science Courses</A>
-+ Project 177: <A HREF="README101.md#P177">YouTube Channels Raspberry Pi ML</A>
-+ Project 178: <A HREF="README101.md#P178">Google Coral TPU</A>
 + Project 179: <A HREF="README101.md#P179">CAN Bus</A>
-+ Project 180: <A HREF="README101.md#P180">Coursera: Introduction to Embedded Machine Learning</A>
-+ Project 181: <A HREF="README101.md#P181">Hackster.io</A>
 + Project 182: <A HREF="README101.md#P182">Arduino UNO R4</A>
-+ Project 183: <A HREF="README101.md#P183">OpenVINO™ DevCon</A>
-+ Project 184: <A HREF="README101.md#P184">Google Coral</A>
-+ Project 185: <A HREF="README101.md#P185">Free Book: Python Data Science Handbook</A>
 + Project 186: <A HREF="README101.md#P186">Raspberry Pi Pico GPIO Current</A>
 + Project 187: <A HREF="README101.md#P187">Raspberry Pi Pico GPIO Square Wave</A>
 + Project 188: <A HREF="README101.md#P188">Raspberry Pi Pico GPIO PIO</A>
 + Project 189: <A HREF="README101.md#P189">CircuitPython</A>
-+ Project 190: <A HREF="README101.md#P190">YouTube Channel Gary Explains</A>
-+ Project 191: <A HREF="README101.md#P191">Bing ChatGPT-4</A>
-+ Project 192: <A HREF="README101.md#P192">Nvidia Jetson Orin Nano</A>
-+ Project 193: <A HREF="README101.md#P193">Jetson Orin Nano SSD</A>
-+ Project 194: <A HREF="README101.md#P194">YouTube Channel JetsonHacks</A>
-+ Project 195: <A HREF="README101.md#P195">Free Book: Python Scripting for Computational Science</A>
-+ Project 1 to 100: <A HREF="README.md#HOME">Index</A>
-+ <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
 <A NAME="P101"></A>
