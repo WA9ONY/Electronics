@@ -1,7 +1,9 @@
 # Electronics Project Notes
 
-<A NAME="INDEX101"></A>
-<P align="center"><A HREF="#INEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - Index - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A></P>  
+<P align="center"><A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A>
+<A HREF="https://www.qrz.com/db/WA9ONY">AI</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">Arduino</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">Electronics</A> - <A HREF="http://www.stargazing.net/david/index.html">GNURadio</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">Pico-RP2040</A> - <A HREF="http://www.stargazing.net/david/index.html">Raspberry-Pi</A></P>  
+
+
 
 # Projects  #101 to 199 Notes Index
 + Project 1 to 100: <A HREF="README.md#HOME">Index</A>
