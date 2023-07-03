@@ -24,27 +24,27 @@
 + Project 98: <A HREF="#P98">Capacitor I-V Characteristics Curve</A>
 + Project 99: <A HREF="#P99">Transformer I-V Characteristics Curve</A>
 + Project 100: <A HREF="#P100">2N3055 NPN Transistor BE I-V Characteristics Curve</A>
-+ Project 101: <A HREF="README.md#P101">YouTube Channel Gems</A>
-+ Project 102: <A HREF="README.md#P102">List of YouTube Playlists</A>
-+ Project 103: <A HREF="README.md#P103">2N3055 Testing with the Peak Atlas DCA75 Pro</A>
-+ Project 104: <A HREF="README.md#P104">I-V Characteristics Curve Tester Version 2</A>
-+ Project 105: <A HREF="README.md#P105">2N3055 Ic-Vc, Ib I-V Characteristics Curve Tester Version 2</A>
-+ Project 106: <A HREF="README.md#P106">2N3055 Ic-Vc, Ib LED Test</A>
-+ Project 107: <A HREF="README.md#P107">Elektor TV Webinars</A>
-+ Project 109: <A HREF="README.md#P109">Embedded World Exhibition & Conference</A>
-+ Project 110: <A HREF="README.md#P110">Elektor Digital Green Magazine</A>
-+ Project 111: <A HREF="README.md#P111">Search PDFs for Text</A>
-+ Project 112: <A HREF="README.md#P112">Newsletters</A>
-+ Project 113: <A HREF="README.md#P113">Internet Archive</A>
-+ Project 114: <A HREF="README.md#P114">Digi-Key Electronics</A>
-+ Project 133: <A HREF="README.md#P133">E-Ink Display</A>
-+ Project 134: <A HREF="README.md#P134">SPE: Single Pair Ethernet</A>
-+ Project 135: <A HREF="README.md#P135">Element14</A>
-+ Project 136: <A HREF="README.md#P136">Dollar Tree</A>
++ Project 101: <A HREF="#P101">YouTube Channel Gems</A>
++ Project 102: <A HREF="#P102">List of YouTube Playlists</A>
++ Project 103: <A HREF="#P103">2N3055 Testing with the Peak Atlas DCA75 Pro</A>
++ Project 104: <A HREF="#P104">I-V Characteristics Curve Tester Version 2</A>
++ Project 105: <A HREF="#P105">2N3055 Ic-Vc, Ib I-V Characteristics Curve Tester Version 2</A>
++ Project 106: <A HREF="#P106">2N3055 Ic-Vc, Ib LED Test</A>
++ Project 107: <A HREF="#P107">Elektor TV Webinars</A>
++ Project 109: <A HREF="#P109">Embedded World Exhibition & Conference</A>
++ Project 110: <A HREF="#P110">Elektor Digital Green Magazine</A>
++ Project 111: <A HREF="#P111">Search PDFs for Text</A>
++ Project 112: <A HREF="#P112">Newsletters</A>
++ Project 113: <A HREF="#P113">Internet Archive</A>
++ Project 114: <A HREF="#P114">Digi-Key Electronics</A>
++ Project 133: <A HREF="#P133">E-Ink Display</A>
++ Project 134: <A HREF="#P134">SPE: Single Pair Ethernet</A>
++ Project 135: <A HREF="#P135">Element14</A>
++ Project 136: <A HREF="#P136">Dollar Tree</A>
 
 <A NAME="P33"></A>
 <HR>
-<P align="center"><A HREF="#P32">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P37">--&gt;</A></P>  
+<P align="center"><A HREF="#P32">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P37">--&gt;</A></P>  
     
 # Project 33: Electronic Component Kits 
 
@@ -71,7 +71,7 @@ Microcontroller projects usually need other electronic components. The below ele
    
 <A NAME="P37"></A>
 <HR>
-<P align="center"><A HREF="#P33">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P38">--&gt;</A></P>  
+<P align="center"><A HREF="#P33">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P38">--&gt;</A></P>  
     
 # Project 37: Soldering
 
@@ -100,7 +100,7 @@ Tips
    
 <A NAME="P38"></A>
 <HR>
-<P align="center"><A HREF="#P37">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P39">--&gt;</A></P>  
+<P align="center"><A HREF="#P37">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P39">--&gt;</A></P>  
     
 # Project 38: Resistor Power Rating
 
@@ -141,7 +141,7 @@ YouTube
    
 <A NAME="P39"></A>
 <HR>
-<P align="center"><A HREF="#P38">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P40">--&gt;</A></P>  
+<P align="center"><A HREF="#P38">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P40">--&gt;</A></P>  
     
 # Project 39: Resistor Tolerance
 
@@ -172,7 +172,7 @@ The colore for 10% is siliver, 5% is gole and 1% is brown tolerance.
      
 <A NAME="P40"></A>
 <HR>
-<P align="center"><A HREF="#P39">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P41">--&gt;</A></P>  
+<P align="center"><A HREF="#P39">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P41">--&gt;</A></P>  
     
 # Project 40: Measuring Resistors
 
@@ -204,7 +204,7 @@ Higher quality meter provice [4-wire resistance measurements](https://youtu.be/k
    
 <A NAME="P41"></A>
 <HR>
-<P align="center"><A HREF="#P40">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P45">--&gt;</A></P>  
+<P align="center"><A HREF="#P40">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P45">--&gt;</A></P>  
     
 # Project 41: Resistor Composition
 
@@ -230,7 +230,7 @@ Wikipedia
       
 <A NAME="P45"></A>
 <HR>
-<P align="center"><A HREF="#P41">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P62">--&gt;</A></P>  
+<P align="center"><A HREF="#P41">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P62">--&gt;</A></P>  
     
 # Project 45: DIY (Do It Youself) Soldering Iron Holder 
 
@@ -263,7 +263,7 @@ Next to the holder is my favorit ~50 year old Ungar Imperial soldering iron with
         
 <A NAME="P62"></A>
 <HR>
-<P align="center"><A HREF="#P45">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P88">--&gt;</A></P>  
+<P align="center"><A HREF="#P45">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P88">--&gt;</A></P>  
     
 # Project 62: LED: Light-emitting Diode
     
@@ -299,7 +299,7 @@ LED kit
     
 <A NAME="P88"></A>
 <HR>
-<P align="center"><A HREF="#P62">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P89">--&gt;</A></P>  
+<P align="center"><A HREF="#P62">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P89">--&gt;</A></P>  
     
 # Project 88: Diode [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
@@ -461,7 +461,7 @@ Videos
     
 <A NAME="P89"></A>
 <HR>
-<P align="center"><A HREF="#P88">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P90">--&gt;</A></P>  
+<P align="center"><A HREF="#P88">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P90">--&gt;</A></P>  
     
 # Project 89: [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve Tester in Tinkercad
 
@@ -499,7 +499,7 @@ Issues
     
 <A NAME="P90"></A>
 <HR>
-<P align="center"><A HREF="#P89">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P91">--&gt;</A></P>  
+<P align="center"><A HREF="#P89">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P91">--&gt;</A></P>  
     
 # Project 90: [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve Tester in Qucs
 
@@ -514,7 +514,7 @@ Issues
    
 <A NAME="P91"></A>
 <HR>
-<P align="center"><A HREF="#P90">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P92">--&gt;</A></P>  
+<P align="center"><A HREF="#P90">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P92">--&gt;</A></P>  
     
 # Project 91: [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve Tester Theory of Operation
 
@@ -697,7 +697,7 @@ Horzintal cursors measuring the vertical axis (current).  -300 mV / 100 Ohms = -
  
 <A NAME="P92"></A>
 <HR>
-<P align="center"><A HREF="#P91">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P93">--&gt;</A></P>  
+<P align="center"><A HREF="#P91">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P93">--&gt;</A></P>  
     
 # Project 92: Color LEDs [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
@@ -760,7 +760,7 @@ Videos
        
 <A NAME="P93"></A>
 <HR>
-<P align="center"><A HREF="#P92">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P94">--&gt;</A></P>  
+<P align="center"><A HREF="#P92">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P94">--&gt;</A></P>  
     
 # Project 93: Red LED Turn On [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
@@ -844,7 +844,7 @@ Videos
        
 <A NAME="P94"></A>
 <HR>
-<P align="center"><A HREF="#P93">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P95">--&gt;</A></P>  
+<P align="center"><A HREF="#P93">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P95">--&gt;</A></P>  
     
 # Project 94: Zener Diode [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
@@ -888,7 +888,7 @@ Videos
         
 <A NAME="P95"></A>
 <HR>
-<P align="center"><A HREF="#P94">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P96
+<P align="center"><A HREF="#P94">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P96
     ">--&gt;</A></P>  
     
 # Project 95: Two Series Zener Diodes [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
@@ -937,7 +937,7 @@ Videos
         
 <A NAME="P96"></A>
 <HR>
-<P align="center"><A HREF="#P95">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P97">--&gt;</A></P>  
+<P align="center"><A HREF="#P95">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P97">--&gt;</A></P>  
     
 # Project 96: Series Circuit (2 Zener Diodes & 100 Ohms Resistor) [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
@@ -995,7 +995,7 @@ Videos
         
 <A NAME="P97"></A>
 <HR>
-<P align="center"><A HREF="#P96">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P98">--&gt;</A></P>  
+<P align="center"><A HREF="#P96">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P98">--&gt;</A></P>  
     
 # Project 97: Resistors [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
@@ -1051,7 +1051,7 @@ Videos
           
 <A NAME="P98"></A>
 <HR>
-<P align="center"><A HREF="#P97">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P99">--&gt;</A></P>  
+<P align="center"><A HREF="#P97">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P99">--&gt;</A></P>  
     
 # Project 98: Capacitor [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
@@ -1133,7 +1133,7 @@ Videos
     
 <A NAME="P99"></A>
 <HR>
-<P align="center"><A HREF="#P98">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P100">--&gt;</A></P>  
+<P align="center"><A HREF="#P98">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P100">--&gt;</A></P>  
     
 # Project 99: Transformer [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
@@ -1215,7 +1215,7 @@ Videos
     
 <A NAME="P100"></A>
 <HR>
-<P align="center"><A HREF="#P99">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README101.md#P101">--&gt;</A></P>  
+<P align="center"><A HREF="#P99">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P101">--&gt;</A></P>  
     
 # Project 100: 2N3055 NPN Transistor BE [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
@@ -1281,14 +1281,14 @@ Application
 
 
 <HR>
-<P align="center"><A HREF="#P100">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="README101.md#P101">--&gt;</A></P>  
+<P align="center"><A HREF="#P100">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P101">--&gt;</A></P>  
 
 
 
 
 <A NAME="P101"></A>
 <HR>
-<P align="center"><A HREF="README2.md#INDEX101">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P102">--&gt;</A></P>  
+<P align="center"><A HREF="README2.md#INDEX101">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P102">--&gt;</A></P>  
     
 # Project 101: YouTube Channel Gems
 <p align="center">
@@ -1357,7 +1357,7 @@ The first place I look for infomation is YouTube.  Below are the YouTube channel
     
 <A NAME="P102"></A>
 <HR>
-<P align="center"><A HREF="#P101">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P103">--&gt;</A></P>  
+<P align="center"><A HREF="#P101">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P103">--&gt;</A></P>  
     
 # Project 102: List of YouTube Playlists
 <p align="center">
@@ -1456,7 +1456,7 @@ This a list of playlist and over one hour videos.
        
 <A NAME="P103"></A>
 <HR>
-<P align="center"><A HREF="#P102">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P104">--&gt;</A></P>  
+<P align="center"><A HREF="#P102">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P104">--&gt;</A></P>  
     
 # Project 103: 2N3055 Testing with the Peak Atlas DCA75 Pro
 <p align="center">
@@ -1554,7 +1554,7 @@ Books
      
 <A NAME="P104"></A>
 <HR>
-<P align="center"><A HREF="#P103">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P105">--&gt;</A></P>  
+<P align="center"><A HREF="#P103">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P105">--&gt;</A></P>  
     
 # Project 104: [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve Tester Version 2
 <p align="center">
@@ -1576,7 +1576,7 @@ Version two
    
 <A NAME="P105"></A>
 <HR>
-<P align="center"><A HREF="#P104">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P106">--&gt;</A></P>  
+<P align="center"><A HREF="#P104">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P106">--&gt;</A></P>  
     
 # Project 105: 2N3055 Ic-Vc, Ib [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve Tester Version 2
 <p align="center">
@@ -1633,7 +1633,7 @@ hFE increases with increasing Ic and Ib.
  
 <A NAME="P106"></A>
 <HR>
-<P align="center"><A HREF="#P105">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P107">--&gt;</A></P>  
+<P align="center"><A HREF="#P105">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P107">--&gt;</A></P>  
     
 # Project 106: 2N3055 Ic-Vc, Ib LED Test
 <p align="center">
@@ -1655,7 +1655,7 @@ URLs
     
 <A NAME="P107"></A>
 <HR>
-<P align="center"><A HREF="#P106">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P108">--&gt;</A></P>  
+<P align="center"><A HREF="#P106">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P108">--&gt;</A></P>  
     
 # Project 107: Elektor TV Webinars
 <p align="center">
@@ -1673,7 +1673,7 @@ URLs
  
 <A NAME="P109"></A>
 <HR>
-<P align="center"><A HREF="#P108">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P110">--&gt;</A></P>  
+<P align="center"><A HREF="#P108">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P110">--&gt;</A></P>  
     
 # Project 109: Embedded World Exhibition & Conference
 <p align="center">
@@ -1692,7 +1692,7 @@ YouTube
     
 <A NAME="P110"></A>
 <HR>
-<P align="center"><A HREF="#P109">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P111">--&gt;</A></P>  
+<P align="center"><A HREF="#P109">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P111">--&gt;</A></P>  
     
 # Project 110: Elektor Digital Green Magazine
 <p align="center">
@@ -1724,7 +1724,7 @@ Local Elektor Libary
     
 <A NAME="P111"></A>
 <HR>
-<P align="center"><A HREF="#P110">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P112">--&gt;</A></P>  
+<P align="center"><A HREF="#P110">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P112">--&gt;</A></P>  
     
 # Project 111: Search PDFs for Text
 <p align="center">
@@ -1945,7 +1945,7 @@ Grep output line number and three lines per text fine.
        
 <A NAME="P112"></A>
 <HR>
-<P align="center"><A HREF="#P111">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P113">--&gt;</A></P>  
+<P align="center"><A HREF="#P111">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P113">--&gt;</A></P>  
     
 # Project 112: Newsletters
 <p align="center">
@@ -1982,7 +1982,7 @@ ML
     
 <A NAME="P113"></A>
 <HR>
-<P align="center"><A HREF="#P112">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P114">--&gt;</A></P>  
+<P align="center"><A HREF="#P112">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P114">--&gt;</A></P>  
     
 # Project 113: Internet Archive
 <p align="center">
@@ -2010,7 +2010,7 @@ Internet Archive is like a online library that you can borrow materials to read 
   
 <A NAME="P114"></A>
 <HR>
-<P align="center"><A HREF="#P113">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P133">--&gt;</A></P>  
+<P align="center"><A HREF="#P113">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P133">--&gt;</A></P>  
     
 # Project 114: Digi-Key Electronics
 <p align="center">
@@ -2026,7 +2026,7 @@ Digi-Key Electronics
     
 <A NAME="P133"></A>
 <HR>
-<P align="center"><A HREF="#P114">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P134">--&gt;</A></P>  
+<P align="center"><A HREF="#P114">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P134">--&gt;</A></P>  
     
 # Project 133: E-Ink Display
 
@@ -2044,7 +2044,7 @@ Products
 
 <A NAME="P134"></A>
 <HR>
-<P align="center"><A HREF="#P133">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P135">--&gt;</A></P>  
+<P align="center"><A HREF="#P133">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P135">--&gt;</A></P>  
     
 # Project 134: SPE: Single Pair Ethernet 
 
@@ -2055,7 +2055,7 @@ SPE
 
 <A NAME="P135"></A>
 <HR>
-<P align="center"><A HREF="#P134">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P136">--&gt;</A></P>  
+<P align="center"><A HREF="#P134">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P136">--&gt;</A></P>  
     
 # Project 135: Element14
     
@@ -2072,7 +2072,7 @@ Blue ban is the menu bar to navigate the website.
     
 <A NAME="P136"></A>
 <HR>
-<P align="center"><A HREF="#P135">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P135">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
     
 # Project 136: Dollar Tree
 <p align="center">
