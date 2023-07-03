@@ -1,3 +1,4 @@
+<A NAME="INDEX"></A>
 <P align="center"><A HREF="#P139">&lt;--<A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P33">--&gt;</A><BR>
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
@@ -43,7 +44,7 @@
 
 <A NAME="P33"></A>
 <HR>
-<P align="center"><A HREF="#P32">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P34">--&gt;</A></P>  
+<P align="center"><A HREF="#P32">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P37">--&gt;</A></P>  
     
 # Project 33: Electronic Component Kits 
 
@@ -70,7 +71,7 @@ Microcontroller projects usually need other electronic components. The below ele
    
 <A NAME="P37"></A>
 <HR>
-<P align="center"><A HREF="#P36">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P38">--&gt;</A></P>  
+<P align="center"><A HREF="#P33">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P38">--&gt;</A></P>  
     
 # Project 37: Soldering
 
@@ -203,7 +204,7 @@ Higher quality meter provice [4-wire resistance measurements](https://youtu.be/k
    
 <A NAME="P41"></A>
 <HR>
-<P align="center"><A HREF="#P40">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P42">--&gt;</A></P>  
+<P align="center"><A HREF="#P40">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P45">--&gt;</A></P>  
     
 # Project 41: Resistor Composition
 
@@ -226,11 +227,10 @@ YouTube
 Wikipedia
   + [Resistors](https://en.wikipedia.org/wiki/Resistor)
 
-
       
 <A NAME="P45"></A>
 <HR>
-<P align="center"><A HREF="#P44">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P46">--&gt;</A></P>  
+<P align="center"><A HREF="#P41">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P62">--&gt;</A></P>  
     
 # Project 45: DIY (Do It Youself) Soldering Iron Holder 
 
@@ -259,15 +259,11 @@ Bend the two vertical wires into a "M" shape and the holder is ready for the sol
 </p>
     
 Next to the holder is my favorit ~50 year old Ungar Imperial soldering iron with [24 Kt. gold plated tip](#P37).     
- 
 
-
-
-
-           
+        
 <A NAME="P62"></A>
 <HR>
-<P align="center"><A HREF="#P61">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P63">--&gt;</A></P>  
+<P align="center"><A HREF="#P45">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P88">--&gt;</A></P>  
     
 # Project 62: LED: Light-emitting Diode
     
@@ -299,25 +295,11 @@ Videos
     
 LED kit
 + 20 LED types [Amamzon](https://www.amazon.com/dp/B093GL1FFH?ref=ppx_yo2ov_dt_b_product_details&th=1)    
-
-        
-<A NAME="P87"></A>
-<HR>
-<P align="center"><A HREF="#P86">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P88">--&gt;</A></P>  
-    
-# Project 87: Tinkercad 3D Design
-<p align="center">
-<img align="center" width="124" height="126" src="/Images/TinkercadLogoB.png">     
-</p>
-    
-[Tinkercad](https://www.tinkercad.com/) [3D Design](https://www.tinkercad.com/3d-design) [community gallery](https://www.tinkercad.com/things?type=designs).   
-     
-Tinkercad main function is 3D Design for [3D printing(https://en.wikipedia.org/wiki/3D_printing)
     
     
 <A NAME="P88"></A>
 <HR>
-<P align="center"><A HREF="#P87">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P89">--&gt;</A></P>  
+<P align="center"><A HREF="#P62">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P89">--&gt;</A></P>  
     
 # Project 88: Diode [I-V Characteristics](https://en.wikipedia.org/wiki/Current%E2%80%93voltage_characteristic) Curve
 
@@ -2028,7 +2010,7 @@ Internet Archive is like a online library that you can borrow materials to read 
   
 <A NAME="P114"></A>
 <HR>
-<P align="center"><A HREF="#P113">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P115">--&gt;</A></P>  
+<P align="center"><A HREF="#P113">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P133">--&gt;</A></P>  
     
 # Project 114: Digi-Key Electronics
 <p align="center">
@@ -2044,7 +2026,7 @@ Digi-Key Electronics
     
 <A NAME="P133"></A>
 <HR>
-<P align="center"><A HREF="#P132">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P134">--&gt;</A></P>  
+<P align="center"><A HREF="#P114">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P134">--&gt;</A></P>  
     
 # Project 133: E-Ink Display
 
@@ -2090,7 +2072,7 @@ Blue ban is the menu bar to navigate the website.
     
 <A NAME="P136"></A>
 <HR>
-<P align="center"><A HREF="#P135">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P137">--&gt;</A></P>  
+<P align="center"><A HREF="#P135">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
     
 # Project 136: Dollar Tree
 <p align="center">
