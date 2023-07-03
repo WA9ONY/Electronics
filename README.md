@@ -1670,10 +1670,9 @@ URLs
 [Elektor TV - Industry](https://www.youtube.com/@ElektorIndustry/featured)    
 
  
- 
 <A NAME="P109"></A>
 <HR>
-<P align="center"><A HREF="#P108">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P110">--&gt;</A></P>  
+<P align="center"><A HREF="#P107">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P110">--&gt;</A></P>  
     
 # Project 109: Embedded World Exhibition & Conference
 <p align="center">
