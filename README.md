@@ -2,7 +2,27 @@
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Electronics Project Notes Index
-
++ Project 33: <A HREF="#P33">Electronic Component Kits</A>
++ Project 37: <A HREF="#P37">Soldering</A>
++ Project 38: <A HREF="#P38">Resistor Power Rating</A>
++ Project 39: <A HREF="#P39">Resistor Tolerance</A>
++ Project 40: <A HREF="#P40">Measuring Resistors</A> 
++ Project 41: <A HREF="#P41">Resistor Composition</A> 
++ Project 45: <A HREF="#P45">DIY Soldering Iron Holder</A> 
++ Project 62: <A HREF="#P62">LED: Light-emitting Diode</A>
++ Project 88: <A HREF="#P88">Diode I-V Characteristics Curve</A>
++ Project 89: <A HREF="#P89">I-V Characteristics Curve Tester in Tinkercad</A>
++ Project 90: <A HREF="#P90">I-V Characteristics Curve Tester in Qucs</A>
++ Project 91: <A HREF="#P91">I-V Characteristics Curve Tester Theory of Operation</A>
++ Project 92: <A HREF="#P92">Color LEDs I-V Characteristics Curve</A>
++ Project 93: <A HREF="#P93">Red LED Turn On  I-V Characteristics Curve</A>
++ Project 94: <A HREF="#P94">Zener Diode I-V Characteristics Curve</A> 
++ Project 95: <A HREF="#P95">Two Series Zener Diodes I-V Characteristics Curve</A>
++ Project 96: <A HREF="#P96">Series Circuit (2 Zener Diodes & 100 Ohms Resistor) I-V Characteristics Curve</A>
++ Project 97: <A HREF="#P97">Resistors I-V Characteristics Curve</A>
++ Project 98: <A HREF="#P98">Capacitor I-V Characteristics Curve</A>
++ Project 99: <A HREF="#P99">Transformer I-V Characteristics Curve</A>
++ Project 100: <A HREF="#P100">2N3055 NPN Transistor BE I-V Characteristics Curve</A>
 + Project 101: <A HREF="README.md#P101">YouTube Channel Gems</A>
 + Project 102: <A HREF="README.md#P102">List of YouTube Playlists</A>
 + Project 103: <A HREF="README.md#P103">2N3055 Testing with the Peak Atlas DCA75 Pro</A>
