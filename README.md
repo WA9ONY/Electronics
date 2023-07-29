@@ -2071,7 +2071,7 @@ Blue ban is the menu bar to navigate the website.
     
 <A NAME="P136"></A>
 <HR>
-<P align="center"><A HREF="#P135">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P135">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P137">--&gt;</A></P>  
     
 # Project 136: Dollar Tree
 <p align="center">
@@ -2090,3 +2090,30 @@ Products
   + [LED](https://www.dollartree.com/searchresults?Ntt=led)
   + [Solar LED](https://www.dollartree.com/searchresults?Ntt=solar%20led)    
     
+    
+    
+<A NAME="P137"></A>
+<HR>
+<P align="center"><A HREF="#P136">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 137: Atorch USB & DC Digital Tester, UD18 
+<p align="center">
+<img align="center" width="600" height="217" src="/Images/.png">        
+</p>
+
+Objective: low cost tester to measure USB current to microcontrollers in the uA range.
+
+
+
+Atorch USB C Tester, 3 in 1 Type C DC5.5 USB Meter USB Load Color Screen IPS Digital Multimeter,Voltage,Current,Power,Resistance,Capacity Detector,with Clip Cable Support PD2.0/PD3.0,QC2.0/QC3.0
+
++ [Amazon](https://www.amazon.com/dp/B08N6XQF91?psc=1&ref=ppx_yo2ov_dt_b_product_details)
++ [AliExpress](https://www.aliexpress.us/item/3256804700679353.html?spm=a2g0o.detail.0.0.31aa6a2cAdhWSj&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.281175.0&scm_id=1007.40050.281175.0&scm-url=1007.40050.281175.0&pvid=79bb1937-f109-4be2-aa7d-0fc69419c031&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.281175.0,pvid:79bb1937-f109-4be2-aa7d-0fc69419c031,tpp_buckets:668%232846%238108%231977&pdp_npi=3%40dis%21USD%2127.5%2119.25%21%21%21%21%21%402103010e16905814447136056e62f9%2112000030894495975%21rec%21US%21)
+
+
+Welcome to my page about batteries, chargers and flashlights [URL](http://www.lygte-info.dk/)
++ [Tear down and test](https://lygte-info.dk/review/USBmeter%20USB%20tester%20Atorch%20UD18%20%28Hidance%29%20UK.html)
+
+
+Similuar
++ [Mustool UD18 USB/DC Jack Tester](https://www.youtube.com/watch?v=pysVQnyvugI)
