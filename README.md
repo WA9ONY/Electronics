@@ -2090,8 +2090,7 @@ Products
   + [Flashlight](https://www.dollartree.com/searchresults?Ntt=flashlight)
   + [LED](https://www.dollartree.com/searchresults?Ntt=led)
   + [Solar LED](https://www.dollartree.com/searchresults?Ntt=solar%20led)    
-    
-    
+     
     
 <A NAME="P137"></A>
 <HR>
@@ -2105,16 +2104,17 @@ Products
 Objective: low cost tester to measure USB current to microcontrollers in the uA range.
 
 
-
 Atorch USB C Tester, 3 in 1 Type C DC5.5 USB Meter USB Load Color Screen IPS Digital Multimeter,Voltage,Current,Power,Resistance,Capacity Detector,with Clip Cable Support PD2.0/PD3.0,QC2.0/QC3.0
 
 + [Amazon](https://www.amazon.com/dp/B08N6XQF91?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 + [AliExpress](https://www.aliexpress.us/item/3256804700679353.html?spm=a2g0o.detail.0.0.31aa6a2cAdhWSj&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.281175.0&scm_id=1007.40050.281175.0&scm-url=1007.40050.281175.0&pvid=79bb1937-f109-4be2-aa7d-0fc69419c031&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.281175.0,pvid:79bb1937-f109-4be2-aa7d-0fc69419c031,tpp_buckets:668%232846%238108%231977&pdp_npi=3%40dis%21USD%2127.5%2119.25%21%21%21%21%21%402103010e16905814447136056e62f9%2112000030894495975%21rec%21US%21)
 
-
 Welcome to my page about batteries, chargers and flashlights [URL](http://www.lygte-info.dk/)
 + [Tear down and test](https://lygte-info.dk/review/USBmeter%20USB%20tester%20Atorch%20UD18%20%28Hidance%29%20UK.html)
 
+YouTube
++ [REVIEW: TESTER ATORCH UD18 Y CARGA ELECTRONICA DE 65W](https://youtu.be/oddjtsSPvg0) not English
++ [ATORCH UD18 USB](https://youtu.be/6TeXDY2kWFc) not English
 
-Similuar
+Similuar product from Mustool.
 + [Mustool UD18 USB/DC Jack Tester](https://www.youtube.com/watch?v=pysVQnyvugI)
