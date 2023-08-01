@@ -2103,7 +2103,6 @@ Products
 
 Objective: low cost tester to measure USB current to microcontrollers in the uA range.
 
-
 Atorch USB C Tester, 3 in 1 Type C DC5.5 USB Meter USB Load Color Screen IPS Digital Multimeter,Voltage,Current,Power,Resistance,Capacity Detector,with Clip Cable Support PD2.0/PD3.0,QC2.0/QC3.0
 
 + [Amazon](https://www.amazon.com/dp/B08N6XQF91?psc=1&ref=ppx_yo2ov_dt_b_product_details)
@@ -2113,8 +2112,20 @@ Welcome to my page about batteries, chargers and flashlights [URL](http://www.ly
 + [Tear down and test](https://lygte-info.dk/review/USBmeter%20USB%20tester%20Atorch%20UD18%20%28Hidance%29%20UK.html)
 
 YouTube
++ [UD18 USB3.0 Tester APP DC Digital Voltmeter Ammeter](https://youtu.be/W-3QuIEPDig)
 + [REVIEW: TESTER ATORCH UD18 Y CARGA ELECTRONICA DE 65W](https://youtu.be/oddjtsSPvg0) not English
 + [ATORCH UD18 USB](https://youtu.be/6TeXDY2kWFc) not English
 
 Similuar product from Mustool.
 + [Mustool UD18 USB/DC Jack Tester](https://www.youtube.com/watch?v=pysVQnyvugI)
+
+Pros
++ Good selection of connectors.
++ 6 diget resolution on current. (10 uA resolution).
+
+Cons
++ No temperature probe was included. The temperature probe is connected to the USB micro connector (bottome left).
+  + I expect the UD18 uses a [type K temperature probe](https://www.thermocoupleinfo.com/type-k-thermocouple.htm#:~:text=Type%20K%20Thermocouple%20(Nickel%2DChromium,of%20its%20relative%20radiation%20hardness.)
+    + [EEVblog #419 - Thermocouple Tutorial](https://youtu.be/AYblSfpKRUk)
+  +[Atorch UD24](https://www.amazon.com/Adapter-Voltmeter-Detector-Electric-Bluetooth/dp/B0991WM1VY/ref=sr_1_7?crid=11C3TWG08EXW&keywords=Atorch+UD24&qid=1690912600&sprefix=atorch+ud24%2Caps%2C141&sr=8-7) shows the picture of the temperature probe.
+   
