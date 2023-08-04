@@ -2129,3 +2129,14 @@ Cons
     + [EEVblog #419 - Thermocouple Tutorial](https://youtu.be/AYblSfpKRUk)
   +[Atorch UD24](https://www.amazon.com/Adapter-Voltmeter-Detector-Electric-Bluetooth/dp/B0991WM1VY/ref=sr_1_7?crid=11C3TWG08EXW&keywords=Atorch+UD24&qid=1690912600&sprefix=atorch+ud24%2Caps%2C141&sr=8-7) shows the picture of the temperature probe.
    
+## Low Current Test Results
+The UD18 should be able to measure 10 uA.
+But it show ~50 uA low  with a 530 uA current with 10 kohm resistor.
+And it show 0 current at 50 uA current with 100 kohom resistor.
+
+Input USB C female 5.308 to 5.0309 Vdc
+Output barrel jack 0.00047 to 0.00049 Amp
+  + Fluke 8505A 0.000530696 Amps averge mode
+  + Fluke 8502A 0.0005315
+Load 10 Kohms 1% 2 W resistor.
+ 
