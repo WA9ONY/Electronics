@@ -2152,7 +2152,7 @@ Load 10 Kohms 1% 2 W resistor.
 YouTube
 + Understanding and Building Crystal Radio Sets [video](https://youtu.be/_U9lxgT5y1c)
   + [Al Klase](http://www.skywaves.ar88.net/), [N3FRQ](https://www.qrz.com/db/N3FRQ)
-    + {Crystal radios](http://www.skywaves.ar88.net/xtal/xtal.htm)
+    + [Crystal radios](http://www.skywaves.ar88.net/xtal/xtal.htm)
   + Configure a dipole into a T antenna.
   + Tap the coil half way to go to the dector.
   + Headphone need to be high impedance.
