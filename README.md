@@ -1,5 +1,5 @@
 <A NAME="INDEX"></A>
-<P align="center"><A HREF="#P137">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P136">--&gt;</A><BR>
+<P align="center"><A HREF="#P138">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P136">--&gt;</A><BR>
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Python">Python</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Electronics Project Notes Index
@@ -42,6 +42,8 @@
 + Project 135: <A HREF="README.md#P135">Element14</A>
 + Project 136: <A HREF="README.md#P136">Dollar Tree</A>
 + Project 137: <A HREF="README.md#P137">Atorch USB & DC Digital Tester UD18</A>
++ Project 138: <A HREF="README.md#P138">AM Radios
+
 
 <A NAME="P33"></A>
 <HR>
@@ -2094,7 +2096,7 @@ Products
     
 <A NAME="P137"></A>
 <HR>
-<P align="center"><A HREF="#P136">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P136">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P138">--&gt;</A></P>  
     
 # Project 137: Atorch USB & DC Digital Tester UD18 
 <p align="center">
@@ -2139,4 +2141,19 @@ Output barrel jack 0.00047 to 0.00049 Amp
   + Fluke 8505A 0.000530696 Amps averge mode
   + Fluke 8502A 0.0005315
 Load 10 Kohms 1% 2 W resistor.
- 
+     
+    
+<A NAME="P138"></A>
+<HR>
+<P align="center"><A HREF="#P137">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 138: AM Radios
+
+YouTube
++ Understanding and Building Crystal Radio Sets [video](https://youtu.be/_U9lxgT5y1c)
+  + [Al Klase](http://www.skywaves.ar88.net/), [N3FRQ](https://www.qrz.com/db/N3FRQ)
+    + {Crystal radios](http://www.skywaves.ar88.net/xtal/xtal.htm)
+  + Configure a dipole into a T antenna.
+  + Tap the coil half way to go to the dector.
+  + Headphone need to be high impedance.
+  + 
